@@ -1,7 +1,7 @@
 # Open Data Cuisine
-<div style="text-align:center">
+<p style="text-align:center">
 <img src="design/logo/open-data-cuisine-black.png" alt="Open Data Cuisine" width="200px" height="auto" align="center"/>
-</div>
+</p>
 
 [Data Cuisine](http://data-cuisine.net) explores food as a means of communication and information expression.
 

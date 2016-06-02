@@ -4,16 +4,18 @@
 
 This repository contains the "Open Data Cuisine" recipe — a set of materials and instructions so you can run your own Open Data Cuisine workshop, based on a workshop series conducted by Susanne Jaschko ([prozessagenten](http://prozessagenten.org)) and Moritz Stefaner ([Truth & Beauty](http://truth-and-beauty.net)).
 
+![Open Data Cuisine Logo](/design/logo/open-data-cuisine-black.png "Open Data Cuisine")
+
 # The workshop recipe
 
 ## Familiarize yourself with the concept
 
 ## Prepare the vital ingredients
-### Institution to host and organize
-### Chef
-### Kitchen
-### Local data expert
-### Participants
+- Institution to host and organize
+- Chef
+- Kitchen
+- Local data expert
+- Participants
 
 ## Day 0
 - Get to know each other

@@ -32,3 +32,5 @@ This repository contains the "Open Data Cuisine" recipe — a set of materials a
 - Tasting and presentation
 
 ## Documentation
+- Photos
+- Recipes
